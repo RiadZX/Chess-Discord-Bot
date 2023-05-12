@@ -1,0 +1,217 @@
+{
+    "stats": [{
+        "key": "bullet",
+        "stats": {
+            "rating": 685,
+            "highest_rating": 873,
+            "highest_rating_date": "2020-12-15T13:47:53-08:00",
+            "rating_time_change_days": 30,
+            "rating_time_change_value": 2,
+            "total_game_count": 150,
+            "total_win_count": 76,
+            "total_loss_count": 66,
+            "total_draw_count": 8,
+            "avg_opponent_rating": 719.228,
+            "highest_opponent_rating": 1014,
+            "best_win_opponent": {
+                "country": {
+                    "id": 69,
+                    "code": "IN",
+                    "name": "India",
+                    "iso3": "IND",
+                    "currency_code": "INR",
+                    "phone_code": 91
+                },
+                "id": 57425628,
+                "create_date": "2019-02-16T01:23:42-08:00",
+                "username": "asishbauri",
+                "first_name": "Asish",
+                "last_name": "Bauri",
+                "country_id": 69,
+                "last_login_date": "2021-02-24T23:01:17-08:00",
+                "points": 0,
+                "is_enabled": false,
+                "membership_level": 5
+            },
+            "best_win_opponent_id": 57425628
+        },
+        "gameCount": 150,
+        "lastPlayed": true,
+        "lastDate": "2023-05-11T14:26:27-07:00"
+    }, {
+        "key": "rapid",
+        "stats": {
+            "rating": 578,
+            "highest_rating": 1214,
+            "highest_rating_date": "2020-12-06T10:55:24-08:00",
+            "rating_time_change_days": 30,
+            "rating_time_change_value": -38,
+            "total_game_count": 316,
+            "total_win_count": 140,
+            "total_loss_count": 157,
+            "total_draw_count": 19,
+            "avg_opponent_rating": 589.772,
+            "highest_opponent_rating": 1370,
+            "best_win_opponent": {
+                "country": {
+                    "id": 101,
+                    "code": "NL",
+                    "name": "Netherlands",
+                    "iso3": "NLD",
+                    "currency_code": "EUR",
+                    "phone_code": 31
+                },
+                "id": 102227766,
+                "create_date": "2020-12-06T07:35:48-08:00",
+                "username": "KwantumSky",
+                "first_name": "Quinten",
+                "last_name": "",
+                "country_id": 101,
+                "location": "",
+                "last_login_date": "2023-03-31T07:51:19-07:00",
+                "points": 4,
+                "is_enabled": true,
+                "membership_level": 10
+            },
+            "best_win_opponent_id": 102227766
+        },
+        "gameCount": 316,
+        "lastPlayed": false,
+        "lastDate": "2023-05-02T22:35:25-07:00"
+    }, {
+        "key": "tactics",
+        "stats": {
+            "rating": 1059,
+            "highest_rating": 1113,
+            "highest_rating_date": 1677067781,
+            "rating_time_change_days": 90,
+            "rating_time_change_value": -6,
+            "highest_rating_info": {
+                "timestamp": 1677067781,
+                "rating": 1113
+            },
+            "lowest_rating_info": {
+                "timestamp": 1609023858,
+                "rating": 387
+            },
+            "total_seconds": 7481,
+            "lowest_rating": 387,
+            "lowest_rating_date": 1609023858,
+            "attempt_count": 363,
+            "passed_count": 204,
+            "failed_count": 159,
+            "last_date": "2023-04-07T02:45:57-07:00"
+        },
+        "gameCount": 363,
+        "lastPlayed": false,
+        "lastDate": "2023-04-07T02:45:57-07:00"
+    }, {
+        "key": "lightning",
+        "stats": {
+            "rating": 384,
+            "highest_rating": 1022,
+            "highest_rating_date": "2020-12-17T14:42:27-08:00",
+            "rating_time_change_days": 90,
+            "rating_time_change_value": 0,
+            "total_game_count": 169,
+            "total_win_count": 73,
+            "total_loss_count": 88,
+            "total_draw_count": 8,
+            "avg_opponent_rating": 478.979,
+            "highest_opponent_rating": 729,
+            "best_win_opponent": {
+                "country": {
+                    "id": 101,
+                    "code": "NL",
+                    "name": "Netherlands",
+                    "iso3": "NLD",
+                    "currency_code": "EUR",
+                    "phone_code": 31
+                },
+                "id": 126733648,
+                "create_date": "2021-03-08T13:52:51-08:00",
+                "username": "Easywin010",
+                "first_name": "Niels",
+                "last_name": "Van Zuid",
+                "country_id": 101,
+                "last_login_date": "2023-03-10T00:34:37-08:00",
+                "points": 0,
+                "is_enabled": true,
+                "membership_level": 10
+            },
+            "best_win_opponent_id": 126733648
+        },
+        "gameCount": 169,
+        "lastPlayed": false,
+        "lastDate": "2023-03-13T01:18:45-07:00"
+    }, {
+        "key": "chess",
+        "stats": {
+            "rating": 835,
+            "highest_rating": 1077,
+            "highest_rating_date": "2020-12-20T05:50:01-08:00",
+            "rating_time_change_days": 365,
+            "rating_time_change_value": 16,
+            "total_game_count": 22,
+            "total_win_count": 12,
+            "total_loss_count": 10,
+            "total_draw_count": 0,
+            "avg_opponent_rating": 354,
+            "highest_opponent_rating": 1024,
+            "best_win_opponent": {
+                "country": {
+                    "id": 123,
+                    "code": "SA",
+                    "name": "Saudi Arabia",
+                    "iso3": "SAU",
+                    "currency_code": "SAR",
+                    "phone_code": 966
+                },
+                "id": 143145917,
+                "create_date": "2021-06-03T19:45:04-07:00",
+                "username": "ProNoFaisal",
+                "country_id": 123,
+                "last_login_date": "2023-05-11T09:38:27-07:00",
+                "points": 0,
+                "is_enabled": true,
+                "membership_level": 10
+            },
+            "best_win_opponent_id": 143145917,
+            "timeout_percent": 0,
+            "timeout_days": 90,
+            "total_in_progress_count": 3,
+            "avg_move_time": 19906.1,
+            "last_date": "2022-12-28T02:52:19-08:00"
+        },
+        "gameCount": 22,
+        "lastPlayed": false,
+        "lastDate": "2022-12-28T02:52:19-08:00"
+    }, {
+        "key": "tactics_challenge",
+        "stats": {
+            "highest_score": 11,
+            "highest_type_code": "three_strikes",
+            "avg_score": 8.8,
+            "attempt_count": 13,
+            "puzzle_attempts_total": 136,
+            "modes": {
+                "five_minutes": 11,
+                "three_minutes": 9,
+                "three_strikes": 11
+            }
+        },
+        "gameCount": 13,
+        "lastPlayed": false
+    }],
+    "lastType": "liveBullet",
+    "versus": {
+        "total": 0
+    },
+    "ratingOnlyStats": ["threecheck", "kingofthehill", "crazyhouse", "bughouse", "liveChess960"],
+    "officialRating": null,
+    "lessonLevel": {
+        "icon": "rook-fill",
+        "name": "Think Like a Chess Player",
+        "progress": 4
+    }
+}
